@@ -1,0 +1,7 @@
+<script>start("c:\\Users\\91826\\Downloads\\Personal_Portfolio_28-11-23-main (1)\\Personal_Portfolio_28-11-23-main\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1743871262,"4/5/25, 10:11:02 PM");</script>
+<script>addRow("index.html","index.html",0,16054,"15.7 kB",1743871893,"4/5/25, 10:21:33 PM");</script>
+<script>addRow("main.js","main.js",0,1532,"1.5 kB",1743871808,"4/5/25, 10:20:08 PM");</script>
+<script>addRow("README.md","README.md",0,129,"129 B",1743858527,"4/5/25, 6:38:47 PM");</script>
+<script>addRow("styles.css","styles.css",0,7908,"7.7 kB",1743859312,"4/5/25, 6:51:52 PM");</script>
